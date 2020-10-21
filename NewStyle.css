@@ -2,15 +2,27 @@
 <html >
 <head >
 <style >
+
+body{
+    background-color:gold;
+}
+
 h1 {
     color: blue;
-    font-family: verdana;
+    font-family: 'Comic Sans MS';
     font-size: 300%;
+    text-align: center
+}
+
+h2{
+    color:forestgreen;
+    font-family:'Comic Sans MS';
+    font-size: 160%;
 }
 
 p {
     color: red;
-    font-family: courier;
+    font-family: 'Comic Sans MS';
     font-size: 160%;
 }
 
